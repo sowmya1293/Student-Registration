@@ -1,2 +1,2 @@
-# Student-Registration
-JavaScript implementation of students registration
+# App to register students into school
+Uses JavaScript
